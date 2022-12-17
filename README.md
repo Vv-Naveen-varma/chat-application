@@ -1,4 +1,7 @@
-# Chat Application using Socket.io (v1.0.0)
+# Chat Application using Socket.io
+
+## Checkout Medium for details of the application
+> https://medium.com/@naveen-varma/chat-application-using-sockets-nodejs-e7e94277c57c
 
 ### Operations performed using this application 
 
@@ -7,12 +10,13 @@
 - Send Messages
 - Filter bad words
 
-## Heroku is used to deploy the application
-
 ### To Checkout this chat app
 
-> click on [chat-app] https://nav-chat-app.herokuapp.com/
+- Step-1: Install code from the Github Repo
+- Step-2: Open terminal in the Project folder
+- Step-3: Run the command "npm install", this installs all the dependencies from the package.json file
+- Step-4: Now run the command "npm start"
+> This will start the server on port "3000", you can change it this is not your lucky number :)
+- Step-5: Open a browser, type "localhost:3000" as url and press enter.
 
-> Enter a Display name and room number to create a chat room
-
-> Now you can start chatting with anyone as a group from any location, you can even share locations
+> Now you can use the chat room as you like by giving display-name and Chat room-number.
